@@ -1,0 +1,194 @@
+课程信息接口：https://enroll.houbo.org/course_codes/KK565866
+{
+  "code": 0,
+  "data": {
+    "id": 578,
+    "seriesId": 6,
+    "seriesName": "krenz 光影与色彩",
+    "picture": "https://enroll-course.oss-cn-shanghai.aliyuncs.com/2f8c8bcaed5a26b2d41a505cd62c13e4.jpg",
+    "smallPicture": "https://enroll-course.oss-cn-shanghai.aliyuncs.com/34d4b2006e9e1debbccb36eefab35114.jpg",
+    "code": "KK565866",
+    "name": "第16期",
+    "startTime": 1745668800,
+    "predStartTime": "",
+    "endTime": 1751121059,
+    "enrollStartTime": 1728025226,
+    "predEnrollStartTime": "",
+    "enrollEndTime": 1744473599,
+    "remainingEnrolmentNumber": 9999999,
+    "quota": 9999999,
+    "enrolledNumber": 790,
+    "qualifications": "1",
+    "fCodeStatus": 1,
+    "currency": "TWD",
+    "price": 8360,
+    "deposit": 0,
+    "paymentMethod": "1",
+    "depositPaymentMethod": "",
+    "precondition": 2,
+    "courseStatus": 0,
+    "formId": 239,
+    "popup": 1,
+    "formDesc": "提交表单",
+    "formButton": "提交表单",
+    "homeworkSwitch": 0,
+    "homeworkDeadline": 0,
+    "homeworkPermission": 0,
+    "homeworkPostNotification": 0,
+    "popupQQGroup": 0,
+    "needBindCCTalk": false,
+    "needAcceptAgreement": false,
+    "needBindPhoneNumber": false,
+    "needFillOutTheForm": false,
+    "needCompleteAuthentication": false,
+    "isBootcamp": false,
+    "isEnrollable": true,
+    "qqGroup": null,
+    "teacherWechat": null,
+    "cctalkGroups": [],
+    "contactList": [
+      {
+        "ordinal": 1,
+        "type": 1,
+        "account": "KK万事屋-奕欢 3007013711"
+      },
+      {
+        "ordinal": 2,
+        "type": 1,
+        "account": "KK万事屋-海风  3008910385"
+      },
+      {
+        "ordinal": 3,
+        "type": 1,
+        "account": "KK万事屋-大珏  3006020468"
+      },
+      {
+        "ordinal": 4,
+        "type": 5,
+        "account": "Krenz绘画教室"
+      }
+    ],
+    "preCourseList": [],
+    "preCourseNum": 0,
+    "preCourseTopTips": "",
+    "preCourseBottomTips": "",
+    "bannerCompressedImages": {
+      "cb1": {
+        "width": 828,
+        "height": 465,
+        "filePath": "https://enroll-course.oss-cn-shanghai.aliyuncs.com/974dfc9cfb8edb0ea4be2075b3db81d2.jpg"
+      },
+      "cb2": {
+        "width": 200,
+        "height": 112,
+        "filePath": "https://enroll-course.oss-cn-shanghai.aliyuncs.com/6be149f0815768df66806051c94353e2.jpg"
+      }
+    },
+    "compressedImages": {
+      "tb2": {
+        "width": 150,
+        "height": 150,
+        "filePath": "https://enroll-course.oss-cn-shanghai.aliyuncs.com/6d4455bf4ebcd68e23f02a3a7bf89e14.jpg"
+      }
+    },
+    "enrollmentAgreement": null,
+    "currentStepNumber": 0,
+    "collected": false,
+    "loggedOn": true,
+    "certificated": true,
+    "details": [
+      {
+        "tagName": "报名说明",
+        "content": "<p class=\"ql-long-132075\"><span style=\"color:#f32784\"><strong><span style=\"font-size:30px\">色彩16期报名ing </span></strong></span></p><p></p><p><span style=\"color:#f32784\"><span style=\"background-color:#f4f4f4\"><span style=\"font-size:18px\">（报名请先登录厚薄网站）</span></span></span></p><p></p><p><span style=\"color:#000000\"><span style=\"font-size:16px\"><span style=\"background-color:#f4f4f4\"><strong>【课程信息】</strong></span></span></span></p><p></p><p>Krenz-光影与色彩16期，简称 色彩16期</p><p></p><p>开课时间：2025年4月26日</p><p></p><p>上课规律：每周六 20:00-23:00 上课，持续 8 周，K 大直播授课</p><p></p><p class=\"ql-long-132075\"><strong><span style=\"font-size:16px\">※ 课程第二天会生成回放，回放有效期：从最后一节课开始算 6 个月</span></strong></p><p></p><p><span style=\"font-size:16px\">有问题可联系万事屋QQ（任一即可） </span></p><p></p><p><strong><span style=\"font-size:14px\">KK万事屋-海风  3008910385（周一到周五 9:30-18:00）</span></strong></p><p><strong><span style=\"font-size:14px\">KK万事屋-清清 3007013711 （周二到周六 9:30-18:00）</span></strong></p><p><span style=\"color:#000000\"><span style=\"background-color:#f4f4f4\"><strong><span style=\"font-size:14px\">KK万事屋-大珏 3006020468 （周一到周五 9:30-18:00）</span></strong></span></span></p><p><br/><strong><span style=\"color:#000000\"><span style=\"font-size:16px\"><span style=\"background-color:#f4f4f4\">【报名注意事项】</span></span></span></strong></p><p> </p><p>报名请使用 电脑浏览器（除了 IE 和 Edge 其余浏览器都可），手机、平板大部分不兼容，避免无法跳转报名付款页面喔</p><p></p><p>课程为台币定价，点“立即支付”会自动转换成人民币</p><p> </p><p>※ 若付款后订单未刷新，可以查看帮助：<a href=\"https://www.houbo.org/home/help/pay_question\" target=\"_blank\" class=\"bf-link\">https://www.houbo.org/home/help/pay_question</a></p><p></p><p>认证和付款遇到问题，请联系<strong>厚薄技术支持 QQ：3007269024</strong></p><p> </p><p>请同学们完成报名后，完成右侧的待办事项，及时加入班级 QQ 群喔！</p><p></p><p></p><p><span style=\"color:#000000\"><span style=\"font-size:16px\"><span style=\"background-color:#f4f4f4\"><strong>【KK幼儿园宣传介绍】</strong></span></span></span></p><p></p><p class=\"ql-long-132075\">※ 基础弱的同学，正式开课前可以参加KK幼儿园， 务必多练习 抓型</p><p></p><p>具体请看 <strong>KK幼儿园-介绍宣传：</strong></p><p></p><p><strong>- 电脑复制这条链接打开：<a href=\"https://shimo.im/sheets/l6k7bc48YQQcyhRc/MODOC\" target=\"_blank\">https://shimo.im/sheets/l6k7bc48YQQcyhRc/MODOC</a></strong></p><p></p><p><strong>- 手机复制这条链接打开：<a href=\"https://jinshuju.net/f/DPfi6z\" target=\"_blank\">https://jinshuju.net/f/DPfi6z</a></strong></p><p></p><p>里面有幼儿园 的最新入群方式，内有抓型图包，进入后仔细看公告</p><p></p><p>透视、色彩、构成 三门课课前都可以跟着《抓型的基本技巧》这个视频去练习，幼儿园内有 抓型图包。</p><p></p><p>色彩课还可以再看一下 KK魔法学院大礼堂里的《明暗交界线》的那条视频，加油哦！</p>"
+      },
+      {
+        "tagName": "1-课程&主讲老师介绍",
+        "content": "<p></p><div class=\"media-wrap image-wrap\"><img src=\"https://enroll-course.oss-cn-shanghai.aliyuncs.com/fb0a019a0f7ac091b884b1ebaa89ccac.jpg\"/></div><p></p><p></p>"
+      },
+      {
+        "tagName": "2-课程大纲",
+        "content": "<p></p><div class=\"media-wrap image-wrap\"><img src=\"https://enroll-course.oss-cn-shanghai.aliyuncs.com/a48044c0e03d97cdd05ac4f4eeaa334d.jpg\"/></div><p></p>"
+      },
+      {
+        "tagName": "3-常见问题",
+        "content": "<p></p><div class=\"media-wrap image-wrap\"><img src=\"https://enroll-course.oss-cn-shanghai.aliyuncs.com/77069c696d4479a5a93547d0eee7847b.jpg\"/></div><p></p>"
+      },
+      {
+        "tagName": "4-学员优秀作业",
+        "content": "<p></p><div class=\"media-wrap image-wrap\"><img src=\"https://enroll-course.oss-cn-shanghai.aliyuncs.com/696530b84a0b55e7353696202cc13a4d.jpg\"/></div><p></p>"
+      },
+      {
+        "tagName": "5-学员毕业感言",
+        "content": "<p></p><div class=\"media-wrap image-wrap\"><img src=\"https://enroll-course.oss-cn-shanghai.aliyuncs.com/e504c9cd3429dddb33f72c57ad54362a.jpg\"/></div><p></p>"
+      },
+      {
+        "tagName": "6-课程服务协议",
+        "content": "<p></p><div class=\"media-wrap image-wrap\"><img src=\"https://enroll-course.oss-cn-shanghai.aliyuncs.com/4360df3409259d7f59cdc6f78f727704.jpg\"/></div><p></p>"
+      }
+    ],
+    "enrollStatus": 4,
+    "payStage": 0,
+    "coupons": [],
+    "fCodes": [],
+    "availableCoupon": false,
+    "orderNumber": "",
+    "qqNumber": 0,
+    "qqGroupNumber": 0,
+    "wechatId": "",
+    "balance": 0,
+    "formCompleted": false,
+    "haveHomework": false,
+    "isSubOrder": false
+  }
+}
+
+
+
+报名接口：https://enroll.houbo.org/enrolments
+请求body： {"courseCode":"KK565866","couponId":0,"fCodeId":0,"currentStepNumber":0,"promotionChannel":"kkjzgw"}
+result：
+{
+  "type": 1,
+  "orderNumber": "42742843495287",
+  "courseCode": "",
+  "seriesName": "",
+  "courseName": "",
+  "smallPicture": "",
+  "picture": "",
+  "createTime": 1740647823,
+  "deadline": 1740691023,
+  "lockedTime": 0,
+  "succeedTime": 0,
+  "closedTime": 0,
+  "currency": "TWD",
+  "coursePrice": 8360,
+  "totalPrice": 8360,
+  "deposit": 0,
+  "balance": 0,
+  "discountAmount": 0,
+  "reduceAmount": 0,
+  "couponId": 0,
+  "fCodeId": 0,
+  "discountRate": 0,
+  "qqNumber": 0,
+  "qqGroupNumber": 0,
+  "wechatId": "",
+  "teacherWechatId": "",
+  "remark": "",
+  "onBill": 0,
+  "payStage": 0,
+  "payStatus": 0,
+  "status": 0,
+  "payTimeOutPeriodMinutes": 0,
+  "paymentMethod": 0,
+  "coursePaymentMethod": "",
+  "courseDepositPaymentMethod": "",
+  "depositPaymentMethod": "",
+  "bannerCompressedImages": null,
+  "compressedImages": null,
+  "homeworkSwitch": 0,
+  "homeworkDeadline": 0,
+  "acceptedAgreementId": 0,
+  "promotionChannel": "",
+  "paymentDueTime": 720
+}
